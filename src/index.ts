@@ -1,4 +1,3 @@
-import { Sorter } from './Sorter';
 import { NumbersCollection } from './NumbersCollection';
 import { CharactersCollections } from './CharactersCollection';
 import { LinkedList } from './LinkedList';
